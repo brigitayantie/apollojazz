@@ -2,7 +2,7 @@
 
     //database configuration
 
-    $host       = "sql12.freemysqlhosting.net";
+    $host       = "http://sql12.freemysqlhosting.net";
     $user       = "sql12362523";
     $pass       = "JYq4fz18n6";
     $database   = "sql12362523";
